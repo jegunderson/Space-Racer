@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xh8iNMmjly2gCpAuhF/lcrkKkoEOKklqUufziM01YQuhjM+WhQgTUOmPlUDnKk8uVUvpOQam9wtjPKdxBPZSow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jacob\\Documents\\BYUI\\Fall 2022\\Programming with Classes\\group final\\cse210-final\\Unit06.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jacob\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\jacob\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
